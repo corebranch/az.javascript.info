@@ -1,6 +1,6 @@
-# Interaction: alert, prompt, confirm
+# İnteraksiya: alert, prompt, confirm
 
-In this part of the tutorial we cover JavaScript language "as is", without environment-specific tweaks.
+Dərsliyin bu hissəsində JavaScript dilini olduğu kimi, mühitə xas dəyişikliklər olmadan nəzərdən keçiririk.
 
 But we'll still be using the browser as our demo environment, so we should know at least a few of its user-interface functions. In this chapter, we'll get familiar with the browser functions `alert`, `prompt` and `confirm`.
 
